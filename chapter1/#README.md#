@@ -1,1 +1,0 @@
-There are no examples in chapter 1.
