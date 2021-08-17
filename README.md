@@ -3,6 +3,8 @@
 ## Code Examples:
 The code examples are available below and ordered sequentially as they appear in the book. The code examples are saved as Markdown files to enhance the rendering in Github, however these should be directly copy and pastable to your machine.
 
+**Several chapters have no associated code examples or data in this repository. This is also the case for some examples in some chapters. These are left as an exercise for the reader in terms of the example code. In terms of missing data sets, there are not possible to share due to copyright issues.**
+
 - [Chapter 2 - Getting Started](./chapter2)
   - [ch2_1](./chapter2/ch2_1.md)
   - [ch2_2](./chapter2/ch2_2.md)
